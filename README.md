@@ -1,6 +1,5 @@
 # Bestcloudfor.me Akademi 2023 Case 2. Görev
 - Case'de verilmiş olan uygulamanın Docker container olarak çalıştırılmasında gerekli ilk adım olan Dockerfile hazırlama görevi tamamlandı.
-- Bu görevi yaparken yerli ve yabancı bir çok kaynak taradım ve sonucunda Dockerfile oluşturmayı çok daha detaylı bir şekilde öğrendim. Ayrıca Dockerfile komutlarını, bu komutların ne işe yaradığını ve hangi komutun ne zaman kullanılacağını uygulayarak çok daha verimli bir yoldan öğrendim.
 
 Bu görevde çalıştırdığım bütün komutlar aşağıda belirtildiği gibi aynı zamanda "img" dosyası içinde ekran görüntüleriyle birlikte mevcuttur.
 
