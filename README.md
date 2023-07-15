@@ -6,7 +6,7 @@ Bu görevde çalıştırdığım bütün komutlar aşağıda belirtildiği gibi 
 
 1- İlk olarak ubuntu CLI ekranında "mkdir akademi" komutu ile akademi adında dosya oluşturdum.
 
-2- Ardından uygulama dosyalarını bu dosyanın içine attım ve daha sonra bu dosyanın içinde Dockerfile oluşturmak istedim. Dockerfile dosyasının içeriğini düzenlemek için vi Dockerfile komutunu çalıştırdım ve insert modda içerdiği düzenledim.
+2- Ardından uygulama dosyalarını bu dosyanın içine attım ve daha sonra bu dosyanın içinde Dockerfile oluşturmak istedim. Dockerfile dosyasının içeriğini düzenlemek için vi Dockerfile komutunu çalıştırdım ve insert modda içeriği düzenledim.
 
 3- Dockerfile'ın içeriğini düzenlerken şu kodlları kullandım;
 
